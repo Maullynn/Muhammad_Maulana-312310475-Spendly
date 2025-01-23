@@ -40,7 +40,3 @@ Kontribusi sangat diterima! Silakan lakukan fork repository ini, buat perubahan,
 ## Lisensi
 [MIT License](LICENSE)
 
----
-Dibuat dengan ❤ oleh Muhammad Maulana.
-
-
