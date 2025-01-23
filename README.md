@@ -1,5 +1,5 @@
-![storyboard png](https://github.com/user-attachments/assets/3b13ebb7-8df9-4eca-8c69-dd7bd487a257)
 ![budget-buddy-logo png](https://github.com/user-attachments/assets/0f72ece8-dd1b-48fe-9969-2b520029a2b4)
+![storyboard png](https://github.com/user-attachments/assets/3b13ebb7-8df9-4eca-8c69-dd7bd487a257)
 ![uibudget](https://github.com/user-attachments/assets/0d9c07a3-e478-449c-9019-6967bb4154d7)
 ![add transaction](https://github.com/user-attachments/assets/ad74817f-02fc-4594-a625-2096c9fcc6d5)
 ![Transaction has not been added yet](https://github.com/user-attachments/assets/61d188d6-f14c-44b0-bf2b-427310fdff44)
