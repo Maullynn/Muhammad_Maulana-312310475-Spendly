@@ -2,8 +2,8 @@
 ![budget-buddy-logo png](https://github.com/user-attachments/assets/0f72ece8-dd1b-48fe-9969-2b520029a2b4)
 ![uibudget](https://github.com/user-attachments/assets/0d9c07a3-e478-449c-9019-6967bb4154d7)
 ![add transaction](https://github.com/user-attachments/assets/ad74817f-02fc-4594-a625-2096c9fcc6d5)
-![Transaction has not been added yet](https://github.com/user-attachments/assets/9bfd3![transaction added](https://github.com/user-attachments/assets/63ff69ab-750e-4081-9a3b-79830feea9d6)
-e68-014d-4ffc-9c0a-2d2740fdf7e0)
+![Transaction has not been added yet](https://github.com/user-attachments/assets/61d188d6-f14c-44b0-bf2b-427310fdff44)
+![transaction added](https://github.com/user-attachments/assets/41f39591-e96a-4edd-ac48-bf71c9ee52cc)
 ![ACCOUNT](https://github.com/user-attachments/assets/1aa5ea55-37dd-4752-9d39-e657d3e21062)
 
 # Spendly
